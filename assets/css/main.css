@@ -2484,6 +2484,14 @@ input, select, textarea {
 
 /* Icon */
 
+.austrianflag {
+    background: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FAustrian_Empire&psig=AOvVaw3gCbvYkQj3EiLKF7YNkbHq&ust=1613411913105000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPC90_L56e4CFQAAAAAdAAAAABAD.jpg');
+    height: 20px;
+    width: 20px;
+    display: block;
+    /* Other styles here */
+}
+
 	.icon {
 		text-decoration: none;
 		border-bottom: none;
@@ -2826,7 +2834,13 @@ input, select, textarea {
 				ul.icons li > a .label, ul.icons li > span .label {
 					display: none;
 				}
-
+.icon {
+    background: url('your-image-url.jpg');
+    height: 20px;
+    width: 20px;
+    display: block;
+    /* Other styles here */
+}
 /* Menu */
 
 	ul.menu {
